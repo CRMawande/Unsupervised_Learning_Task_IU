@@ -1,24 +1,13 @@
-# Unsupervised_Learning_Task_IU: : Mental Health in Technology-related Jobs
+# Problem statement:
 
-**Task Description:**
+**HR launches a preventative campaign to lessen mental health concerns among workers who prioritize technology.
+A data scientist was assigned to analyze survey data quantitatively.**
 
-A data scientist at a technology-oriented company has been tasked by the Human Resources (HR) department to support a pre-emptive mental health mitigation program with quantitative analysis. The data scientist is provided with a complex, high-dimensional survey dataset, which includes missing values and non-standardized textual inputs. The dataset is representative of the company's staff.
+### Difficulties:
+- High dimension.
+- Absence of values.
+- Non-standard inputs for text.
 
 ### Objectives:
-
-1. **Data Analysis & Clustering:**
-   - Categorize survey participants based on their responses.
-
-2. **Visualization:**
-   - Create clear, interpretable visualizations that reduce data complexity while preserving key characteristics.
-
-3. **Cluster Insights:**
-   - Provide detailed insights into each identified cluster to aid targeted HR interventions.
-
-### Deliverables:
-
-- A comprehensive report detailing the analysis.
-- A concept for implementation.
-- A link to the downloadable code. 
-
-This notebook documents the steps taken to achieve the objectives, including data preprocessing, clustering, visualization, and analysis. The accompanying code is provided for reproducibility and further exploration.
+- Offer an extensive summary of the facts.
+- Group survey respondents and offer explanations and visuals.
