@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Unsupervised_Learning_Task_IU
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Charmaine Ruvimbo
+    family-names: Mawande
+    email: charmaine.mawande@iu-study.org
+    name-particle: CR
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/CRMawande/Unsupervised_Learning_Task_IU/blob/9325b02a5de69b1a3ca4063286379b6f821a4455/case_study_mental_health.ipynb
