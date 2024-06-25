@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Unsupervised_Learning_Task_IU
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Charmaine Ruvimbo
+    family-names: Mawande
+    email: charmaine.mawande@iu-study.org
+    orcid: 'https://orcid.org/0009-0000-5988-4961'
+    affiliation: >-
+      IU International University of Applied Sciences:
+      Erfurt, DE
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/CRMawande/Unsupervised_Learning_Task_IU/blob/f23298f6348648c80c02821a4da765e8d4b89433/case_study_mental_health.ipynb
